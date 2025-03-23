@@ -17,3 +17,21 @@ I developed a comprehensive "Call Center Dashboard" in Excel, creating modern da
 ## Dashboard Interaction
 - **Interactive Dashboard:** [Call-Center-Dashboard Project](https://github.com/Muhammad-Jan/Call-Center-Dashboard/blob/main/Call%20Center%20Dataset.xlsx)
   - The dashboard is equipped with **slicers** and **dynamic filters** to allow users to interact with the data and gain insights based on specific criteria.
+## Process
+
+### Data Preprocessing
+- Conducted a thorough check of the dataset to identify and address missing values, anomalies, and inconsistencies.
+- Ensured uniformity in data types, formats, and values to maintain data integrity.
+
+### Data Cleaning
+- Eliminated duplicate entries and corrected any errors present in the dataset.
+- Standardized data entries to ensure accuracy and reliability in the analysis.
+
+### Data Analysis
+- Utilized **Pivot Tables** to aggregate and analyze data, focusing on key performance indicators (KPIs) such as call volume, agent performance, and satisfaction rates.
+- Applied **Excel formulas** and **functions** to compute essential metrics, including average talk duration, speed of answer, and resolution rates.
+
+### Data Visualization
+- Developed **modern, interactive dashboards** using a variety of Excel charts, graphs, and tables to visually represent the data.
+- Consolidated all Pivot Tables into a single, cohesive dashboard for a comprehensive overview.
+- Integrated **slicers** to enhance interactivity, allowing users to filter and view data by specific criteria such as month, agent, or call topic.
