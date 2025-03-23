@@ -35,3 +35,12 @@ I developed a comprehensive "Call Center Dashboard" in Excel, creating modern da
 - Developed **modern, interactive dashboards** using a variety of Excel charts, graphs, and tables to visually represent the data.
 - Consolidated all Pivot Tables into a single, cohesive dashboard for a comprehensive overview.
 - Integrated **slicers** to enhance interactivity, allowing users to filter and view data by specific criteria such as month, agent, or call topic.
+
+## Dashboard Screenshot
+
+
+
+## Tools Used
+- **Microsoft Excel:** For data cleaning, analysis, and visualization.
+- **Pivot Tables and Charts:** For summarizing and visualizing data.
+- **Slicers:** For interactive filtering and dynamic dashboards.
