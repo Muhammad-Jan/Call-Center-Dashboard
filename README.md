@@ -5,7 +5,7 @@ I developed a comprehensive "Call Center Dashboard" in Excel, creating modern da
 ## Key Performance Indicators (KPIs)
 1.	Agent wise Calls and Satisfaction
 2.	Top Agents Agents Performance
-3.	Identify the Per of Recived Calls
+3.	Identify the Percentage of Recived Calls
 4.	Average Satisfaction
 5.	Calls Answer Wise "Yes"/"No"
 6.	Total Calls
@@ -13,4 +13,7 @@ I developed a comprehensive "Call Center Dashboard" in Excel, creating modern da
 8.	Avg Speed of Answer
 9.	Day wise Calls Resolved
 10.	Topic Wise Received Calls With Satisfaction
-11.	Filtertion: Month And Resolved
+11.	Filtertion: Month And Resolved "Yes/no"
+## Dashboard Interaction
+- **Interactive Dashboard:** [Call-Center-Dashboard Project](https://github.com/Muhammad-Jan/Call-Center-Dashboard/blob/main/Call%20Center%20Dataset.xlsx)
+  - The dashboard is equipped with **slicers** and **dynamic filters** to allow users to interact with the data and gain insights based on specific criteria.
