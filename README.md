@@ -37,7 +37,8 @@ I developed a comprehensive "Call Center Dashboard" in Excel, creating modern da
 - Integrated **slicers** to enhance interactivity, allowing users to filter and view data by specific criteria such as month, agent, or call topic.
 
 ## Dashboard Screenshot
-
+- **Dashboard Preview:**[Dashboard Picture](https://github.com/Muhammad-Jan/Call-Center-Dashboard/blob/main/Call%20Center%20Dashboard.jpg)
+![Call Center KPIs Dashboard](https://github.com/Muhammad-Jan/Call-Center-Dashboard/blob/main/Call%20Center%20Dashboard.jpg)
 
 
 ## Tools Used
